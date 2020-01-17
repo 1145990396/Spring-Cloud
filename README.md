@@ -1,8 +1,3 @@
->转载请标明出处： 
-> http://blog.csdn.net/forezp/article/details/70148833
-> 本文出自[方志朋的博客](http://blog.csdn.net/forezp)
-> 
-
 错过了这一篇，你可能再也学不会 Spring Cloud 了！Spring Boot做为下一代 web 框架，Spring Cloud 作为最新最火的微服务的翘楚，你还有什么理由拒绝。赶快上船吧，老船长带你飞。终章不是最后一篇，它是一个汇总，未来还会写很多篇。
 
 ### 《史上最简单的 SpringCloud 教程》系列：
@@ -85,4 +80,7 @@ Spring Cloud Finchley; Spring Boot 2.0.3
 * [ 如何在IDEA启动多个Spring Boot工程实例](http://blog.csdn.net/forezp/article/details/76408139)
 * [ JWT如何在Spring Cloud微服务系统中在服务相互调时传](http://blog.csdn.net/forezp/article/details/78676036)
 
+
+> http://blog.csdn.net/forezp/article/details/70148833
+> 本文出自[方志朋的博客](http://blog.csdn.net/forezp)
 
